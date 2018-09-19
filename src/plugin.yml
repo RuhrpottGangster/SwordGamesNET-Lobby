@@ -1,0 +1,9 @@
+name: Lobby
+author: ByteGames
+version: 1.0
+main: de.bySwordGames.LobbySystem.Lobby
+
+commands:
+  edit:
+  setPos:
+  setShop:
